@@ -1,0 +1,292 @@
+English	French	Description	Topic Area
+??	le moment centré		Statistics & probability
+actuator	l’actionneur		Control
+algebraic	algébrique		Mathematics
+amplify	amplifier		Electrical engineering
+amplitude ratio	le rapport d'amplitude		Control
+amplitude ratio	rapport d'amplitude		Control
+analog / analogue control	la commande analogique		Control
+analog filter	le filtre analogique		Electrical engineering
+analog-to-digital converter (DAC)	un convertisseur analogique-numérique (CAN)		Electrical engineering
+anti-aliasing filter	le filtre antirepliement		Electrical engineering
+anti-windup mechanism	un dispositif anti-windup		Control
+argument	l’argument		Mathematics
+as a function of	en fonction de		Mathematics
+attenuation	l’atténuation		Electrical engineering
+automatic control	commande automatique		Control
+autoregressive (AR)	autoregressif		Control
+autoregressive moving average (ARMA)	autorégressif à moyenne mobile		Control
+average	la moyenne		Statistics & probability
+bandwidth	la bande passante		Electrical engineering
+bandwidth	la largeur de bande		Control
+behaviour	comportement		Control
+behaviour of the control system	le comportement de l’asservissement 		Control
+biased estimate	une estimation biaisée		Statistics & probability
+bilateral / one-to-one	biunivoque		Mathematics
+Black-Nichols locus / Black-Nichols plot	Le lieu de Black		Control
+break frequency	la fréquence de cassure		Control
+Bristol relative gains	les gains relatifs de Bristol		Control
+bumpless transfer	le transfert sans à-coup		Control
+burner	un bruleur		Process Engineering
+by induction	par récurrence		Mathematics
+causal	causal		Control
+closed-loop system 	le système asservi en boucle fermée		Control
+complex plane	le plan complexe		Mathematics
+complex variable	la variable complexe		Mathematics
+computational demand	le charge de calcul 		Control
+condition number	nombre de conditionnement		Mathematics
+confidence interval	un intervalle de confiance		Statistics & probability
+constraint	une contrainte		Control
+continuous domain	le domaine continu		Control
+continuous signal	un signal continu		Electrical engineering
+control algorithm	l’algorithme de commande		Control
+control input/action	la commande 		Control
+control loop	la boucle de contrôle		Control
+control variable 	la variable contrôlée 		Control
+controlled system	l'asservissement		Control
+controller	le contrôleur		Control
+convergence limit	le seuil de convergence		Mathematics
+convolve	convoluer		Mathematics
+cooling water	l'eau de refroidissement		Process Engineering
+correlogram	le corrélogramme		Control
+critical frequency	la fréquence critique.		Control
+critically damped	à amortissement critique		Control
+cumulative probability function	la fonction de répartition		Statistics & probability
+curve	la courbe		Mathematics
+cut-off frequency	la fréquence de coupure		Control
+damped	amorti		Control
+damping	l'amortissement		Control
+damping coefficient	le coefficient d'amortissement		mal
+data	les données		Control
+data acquisition chain	la chaîne d’acquisition de données		Control
+data reconstruction	Reconstruction de donnée		Electrical engineering
+deadbeat controller	un régulateur à réponse pile		Control
+decade	la décade		Control
+decaying	amortie		Control
+decentralised control	la commande décentralisée		Control
+decoupling	le découplage		Control
+definition limit	le seuil de définition		Mathematics
+delay	le retard		Control
+delay margin	le marge de gain		Control
+density	la masse volumique		Process Engineering
+differential equation	l'équation différentielle		Mathematics
+digital control	la commande numérique		Control
+digitial-to-analog converter (ADC)	un convertisseur numérique-analogique (CNA)		Electrical engineering
+Dirac comb function	la fonction peigne de Dirac		Electrical engineering
+discharge	la décharge 		Process Engineering
+distortion	la distorsion		Electrical engineering
+distributed control	la commande distribuée		Control
+disturbance	la perturbation		Control
+disturbance / perturbation	la perturbation		Control
+dynamics	la dynamique		Control
+energy balance	bilan d'énergie		Process Engineering
+ergodicity	l'ergodicité		Statistics & probability
+excitation	une excitation		Control
+excite the process	faire réagir le procédé		Control
+expectation (mathematical)	l'espérance (mathématique)		Statistics & probability
+express mathematically	exprimer mathématiquement		Mathematics
+factory / plant	l’usine		Process Engineering
+feedback	la rétroaction		Control
+feedback loop	une boucle de rétroaction		Control
+filter	le filtre		Control
+filtered setpoint	la consigne filtrée		Control
+fine	finement 		Process Engineering
+first principles	les principes fondamentaux		Control
+flow rate	le debit		Process Engineering
+Fourrier transform	la transformée de Fourrier		Mathematics
+frequency of the transient oscillation	la fréquence de l'oscillation transitoire		Control
+frequency response	la réponse en fréquences		Control
+frequency response curves	la courbe de la réponse en fréquences		Control
+frequency shift	un décalage fréquentiel		Electrical engineering
+frequency(?)	la pulsation		Control
+friction	le frottement		Mechanical engineering
+full rank	rang complete		Mathematics
+gain crossover frequency	la fréquence de gain croisé		Control
+gain crossover frequency	not sure if there is a French term		Control
+gain margin	la marge de gain		Control
+gear	un engrenage		Mechanical engineering
+graph	le graphique		Mathematics
+grinding circuit	un circuit de broyage		Process Engineering
+grinding media	corps broyant		Process Engineering
+growing / amplified	amplifié		Control
+growing function	une fonction croissante		Mathematics
+hardness of the material	la dureté du solide		Process Engineering
+harmonic test	essai harmonique		Control
+heat	le chaleur		Process Engineering
+heating element	un élément chauffant		Process Engineering
+high frequencies	hautes fréquences		Control
+identification	l’identification		Control
+impulse	une impulsion		Control
+impulse response	La réponse impulsionnelle		Control
+in decreasing powers of s	en puissance décroissante de s		Control
+infinity	l’infini		Mathematics
+information loss	la perte d'information		Electrical engineering
+initial conditions	les conditions initiales		Control
+initial state	un état initial		Control
+initially	initialement 		Process Engineering
+input	entrée		Control
+integration	l’intégration		Mathematics
+inverse response, or 'initial undershoot'	un départ malin		Control
+lag compensator	un régulateur avec retard de phase		Control
+Laplace domain	le plan de Laplace		Mathematics
+Laplace transform	la transformée de Laplace 		Mathematics
+lead compensator	un régulateur avec avance de phase		Control
+least squares	des moindres carrés		Statistics & probability
+limit	La borne		Mathematics
+linear function	une fonction linéaire		Mathematics
+linear operation	une opération linéaire		Mathematics
+linear system	un système linéaire		Control
+load	une charge		Mechanical engineering
+Locus of Nichols chart	Le lieu de Black		Control
+loop transfer function	la fonction de transfert de la boucle		Control
+low frequencies	basses fréquences		Control
+low pass filter	un filtre passe-bas		Electrical engineering
+make-up water	l'eau d'appoint		Process Engineering
+manipulatable variable 	la variable manipulée  		Control
+manipulate	manipuler		Control
+manipulation	la manipulation 		Control
+mass balance	bilan de matière		Process Engineering
+Maximum likelihood method	La méthode du maximum de vraisemblance		Control
+measure	mesurer		Control
+measurement	la mesure		Control
+measurement noise	le bruit de mesure		Control
+mixture	le mélange 		Process Engineering
+modelling	modélisation		Mathematics
+modulator	le variateur		Control
+modulus	le module		Mathematics
+moisture content of the material	le pourcentage massique d’humidité contenue dans le solide		Process Engineering
+motor	le moteur		Electrical engineering
+moving average (MA)	moyenne mobile		Control
+natural frequency	la fréquence propre		Control
+new state	un nouvel état		Control
+Nichols plot / Black-Nichols chart	Le diagramme / L'abaque / Le plan de Black / Black et Nichols		Control
+noise	le bruit		Control
+nominal behavior	comportement nominal		Control
+non-minimum phase system	un system à déphasage non-minimal		Control
+one-sided	monolatérale		Mathematics
+opening	l’ouverture 		Process Engineering
+operating range	la plage de fonctionnement		Process Engineering
+operating range	le plage de operation		Process Engineering
+order	le degré		Mathematics
+ordinary least squares	des moindres carrés ordinaires		Statistics & probability
+origin	l'origine		Mathematics
+output	la sortie		Control
+over-damped	hyperamorti		Control
+overshoot	le dépassement		Control
+parameter perturbation	perturbation paramétrique		Control
+percent solids	le pourcentage de solide 		Process Engineering
+perfect anticipation	L’anticipation parfaite		Control
+permanent	constant		Mathematics
+phase	phase		Control
+phase margin	la marge de phase		Control
+phase shift	un déphasage		Control
+pipe	le conduit		Process Engineering
+pipe	le tuyau		Process Engineering
+plant output 	sortie du procédé 		Control
+pole	le pôle		Control
+power	la puissance		Electrical engineering
+power source	source de puissance		Electrical engineering
+pressure drop	une chute de pression		Process Engineering
+probability density function	la densité de probabilité		Statistics & probability
+process	le procédé		Process Engineering
+property of linear superposition	propriété de superposition linéaire		Mathematics
+proportional-integral-derivative (PID) regulator	Le régulateur proportionnel-intégrale-dérivée (PID)		Control
+pure delay system	un système retard pur		Control
+Q factor	le facteur de surtension		Control
+random variable	un variable aléatoire		Statistics & probability
+rank (of a matrix)	le rang (d'une matrice)		Mathematics
+ratio	le rapport		Mathematics
+real	réelle		Mathematics
+recurrent equation	une equation récurrente		Mathematics
+regulation 	régulation 		Control
+regulator	régulateur		Control
+relative degree	le degré relatif		Control
+remainder (of a division)	le reste (de la division)		Mathematics
+resonant frequency	la fréquence de résonance		Control
+respond / react	réagir		Control
+response	la réponse 		Control
+response time	le temps de réponse 		Control
+rise time	le temps de montée		Control
+robust	robuste		Control
+roots	les racines 		Mathematics
+rows and columns	les lignes et colonnes		Mathematics
+sampled signal	un signal échantillonné		Electrical engineering
+sampling	l'échantillonnage		Electrical engineering
+sampling frequency	la fréquence d’échantillonnage		Electrical engineering
+sampling period	la période d’échantillonnage		Electrical engineering
+scaling	mise à l’échelle		Process Engineering
+second derivative	la dérivée seconde		Mathematics
+self-regulating	autorégulant		Control
+sensitivity	le sensibilité		Control
+sensor	le capteur		Control
+sensor noise	le bruit de capteur		Control
+setpoint	la consigne 		Control
+setpoint change	un échelon de consigne		Control
+setpoint tracking	en poursuite de la consigne		Control
+shaft	l’arbre		Mechanical engineering
+shift (time shift)	un décalage		Control
+signal-to-noise ratio	le rapport signal sur bruit		Electrical engineering
+silting	l'ensablement		Process Engineering
+simple feedback	la simple retroaction.		Control
+singular value decomposition	la décomposition en valeurs singulières 		Mathematics
+sketch	esquisser		Mathematics
+slope/gradient	la pente		Mathematics
+solids fraction	la fraction solide		Process Engineering
+solids percentage	le pourcentage massique		Process Engineering
+specific gravity	la densité		Process Engineering
+specific heat	le chaleur spécifique		Process Engineering
+specifications	les spécifications		Control
+spectral aliasing / frequency folding	le repliement spectral		Electrical engineering
+spectral overlap	le recouvrement spectral		Electrical engineering
+spectrum of a signal	le spectre d’un signal		Electrical engineering
+spring-mass system	système masse-ressort		Control
+stability	la stabilité 		Control
+staggered	décalées		Control
+standard deviation	l'écart type		Statistics & probability
+standard error	 l’erreur type		Statistics & probability
+state-space representation	le représentation d’état		Control
+static gain	le gain statique		Control
+stationarity	la stationnarité		Statistics & probability
+steady state	régime permanent ou définitif		Control
+steady-state error	erreur statique / erreur de position		Control
+step	l'échelon		Mathematics
+step response	réponse à l'échelon / réponse indicielle		Control
+supply	alimenter		Electrical engineering
+supply voltage	la tension fournie 		Electrical engineering
+switch	l’interrupteur		Electrical engineering
+system	un système		Control
+tank	le réservoir 		Process Engineering
+Taylor series	la série de Taylor		Mathematics
+time constant	la constante de temps		Control
+time invariant	invariants dans le temps		Control
+time shift / lag	un décalage temporel		Electrical engineering
+time-dependent	une fonction du temps		Control
+timestep	le créneau		Control
+tracking 	poursuite 		Control
+trailing error, drag error(?)	erreur de traînage		Control
+transfer function	la fonction de transfert		Control
+transient regime	régime transitoire		Control
+trouble-shooting	diagnostic des anomalies		Control
+tuning	le réglage		Control
+uncertainty	une incertitude		Mathematics
+undamped natural frequency	la fréquence propre non amortie		Control
+under-damped	sous-amorti		Control
+unit circle	un cercle unitaire		Control
+unit step	un échelon unitaire		Control
+unit step function	l'échelon unitaire		Control
+units	les unités		Mathematics
+unstable	instable		Control
+valve	la vanne		Process Engineering
+variance	la variance		Statistics & probability
+variations	les variations 		Control
+velocity error	l'erreur de traînage / erreur de vitesse		Control
+voltage	la tension		Electrical engineering
+water addition	l’ajout d’eau		Process Engineering
+water balance	bilan d'eau		Process Engineering
+wear	l'usure		Mechanical engineering
+well damped	bien amorti		Control
+well designed	bien conçu 		Process Engineering
+wind tunnel	soufflerie		Aeronautical Engineering
+zero order hold (ZOH)	le bloqueur d’ordre zéro (BOZ)		Electrical engineering
+z-plane	le plan z		Control
+z-transform	la transformée en z		Control
